@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shami-Sudo ,I'm still a beginner 
 - 👀 I’m interested in competitive programming , data structures 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on interactive projects
+- 💞️ I’m looking forward to collaborate on interactive projects
 - 📫 How to reach me @shamishashidharabhat@gmail.com
 
 <!---
