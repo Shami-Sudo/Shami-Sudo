@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shami-Sudo ,I'm still a beginner 
+- 👋 Hi, I’m @Shami-Sudo 
 - 👀 I’m interested in UI/UX and Fullstack Web-Development. 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking forward to collaborate on interactive projects
