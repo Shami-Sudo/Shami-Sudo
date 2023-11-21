@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shami-Sudo 
-- 👀 I’m interested in UI/UX and Fullstack Web-Development. 
+- 👀 I’m interested in ML and Web-Development. 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking forward to collaborate on interactive projects
 - 📫 How to reach me @shamishashidharabhat@gmail.com
